@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @einfachyannik
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C/C++
 - 📫 How to reach me einfachyannik.business@gmail.com
