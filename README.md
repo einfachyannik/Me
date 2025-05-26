@@ -2,7 +2,7 @@
 
 **I am Yannik**
 
-- 🔮 Working for [@NoRiskClient](https://github.com/NoRiskClient/)
+- 🔮 Working for [@NoRiskClient](https://github.com/NoRiskClient/), [@HGLabor](https://github.com/HGLabor/)
 - 🦺 Learning **C++, C#, C** 
 
 ### Operating Systems
